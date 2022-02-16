@@ -10,7 +10,7 @@ background: linear-gradient(to right,#06beb6,#036a77);
 
 .flex-container {
    
-    
+    flex-direction: column;
     
 }
 
