@@ -1,0 +1,67 @@
+
+
+body {
+
+width: 300px;
+margin: 0 auto;
+background: linear-gradient(to right,#06beb6,#036a77);
+
+}
+
+.flex-container {
+   
+    flex-direction: row;
+    
+}
+
+
+#input{
+    width: 200px;
+    height:40px;
+    border: 1px solid black;
+    outline: none;
+    font-size: 24px;
+    
+    
+
+}
+
+#addButton{
+    height: 46px;
+    width: 40px;
+    border: 1px solid black;
+    font-size: 30px;
+    
+
+}
+
+.content{
+    margin-top: 25px;
+}
+
+.listStyle{
+    margin: 0;
+    cursor: pointer;
+    font-size: 20px;
+
+}
+
+
+  li button {
+      
+    justify-content: flex-end;  
+    align-content: flex-end;  
+    align-items: flex-end;  
+    
+    
+  }
+
+  #completeList{
+      width: 300px;
+  }
+
+  #list{
+
+    width: 300px;
+
+  }
